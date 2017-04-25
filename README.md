@@ -30,4 +30,4 @@
 </div>
   <a href="http://www.bin-music.com/cn/artist1.html"> 跳至mayday網站</a><br> 
   </body>
-<html>
+</html>
