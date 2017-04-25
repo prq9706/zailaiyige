@@ -28,6 +28,7 @@
   <li>一雙又一雙的目光 像監獄和高牆 牆裡的風光是不是 如當初想像？</li>
 </ul>
 </div>
+<img class="image" src="http://g-search1.alicdn.com/bao/uploaded/i4/134654527/TB2.N1YmVXXXXcqXpXXXXXXXXXX_!!134654527.jpg_240x240q50" > 
   <a href="http://www.bin-music.com/cn/artist1.html"> 跳至mayday網站</a><br> 
   </body>
 </html>
