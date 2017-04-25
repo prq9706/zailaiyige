@@ -1,5 +1,5 @@
 # MAYDAY
-
+<!DOCTYPE html>
 <html>
 <script>
   $(document).ready(function() {
