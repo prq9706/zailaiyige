@@ -1,6 +1,8 @@
 # MAYDAY
 
-<html>   <head>        <bgsound src="1.mp3" loop="-1">     <p><center><b><font size="7"color="#cccccc">MAYDAY</font></b></center></p>     <br> <style>       
+<html>   
+<body background="http://i.imgur.com/pqK80.png">
+<head>        <bgsound src="1.mp3" loop="-1">     <p><center><b><font size="7"color="#cccccc">MAYDAY</font></b></center></p>     <br> <style>       
 </head> <body> 
 <body bgcolor="#cccccc">
 <body background=http://i.imgur.com/pqK80.png >
