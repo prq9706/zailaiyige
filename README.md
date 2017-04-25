@@ -3,7 +3,7 @@
 <html>   
 <body background="http://i.imgur.com/pqK80.png">
 <head>        <bgsound src="1.mp3" loop="-1">     <p class="title" span="" style="font-size:20px"><l>MAYDAY</l></p>     <br> <style>       
-</head> <body> 
+ <body> 
 <body background=http://i.imgur.com/pqK80.png >
 <blockquote> 
 <span>hh</span> <ul>  
