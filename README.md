@@ -16,7 +16,7 @@
 <head>
 <title>MAYDAY MAYDAY</title>
 </head>
-<body background="http://i.imgur.com/pqK80.png"　text="#000000"　link="#0066cc"　vlink="#336600">
+
 <marquee>歡迎來到我的網站</marquee>
 <img class="image" src="http://img.wmtp.net/wp-content/uploads/14.jpeg" > 
 <p>啦啦啦</p>
