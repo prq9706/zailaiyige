@@ -17,7 +17,7 @@
 <title>MAYDAY MAYDAY</title>
 </head>
 
-<marquee>歡迎來到我的網站</marquee>
+<marquee>by 龐睿琪</marquee>
 <img class="image" src="http://img.wmtp.net/wp-content/uploads/14.jpeg" > 
 <p>啦啦啦</p>
 <div class="well" id="swell">
