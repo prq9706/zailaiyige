@@ -6,10 +6,10 @@
 <script type="text/javascript">
 $(document).ready(function(){
   $("#hide").click(function(){
-  $("p").hide();
+  $("p2").hide();
   });
   $("#show").click(function(){
-  $("p").show();
+  $("p2").show();
   });
 });
 </script>
@@ -47,8 +47,8 @@ $(document).ready(function(){
 <button id="hide" type="button">隱藏</button>
 <button id="show" type="button">顯示</button>
 </body>
-<img class="image" src="http://g-search1.alicdn.com/bao/uploaded/i4/134654527/TB2.N1YmVXXXXcqXpXXXXXXXXXX_!!134654527.jpg_240x240q50" > 
-<br>
+<p id="p2"><img class="image" src="http://g-search1.alicdn.com/bao/uploaded/i4/134654527/TB2.N1YmVXXXXcqXpXXXXXXXXXX_!!134654527.jpg_240x240q50" > 
+</p>
 <a href="http://www.bin-music.com/cn/artist1.html"> 跳至mayday網站</a><br> 
   </body>
 </html>
