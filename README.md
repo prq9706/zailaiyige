@@ -1,6 +1,19 @@
 # MAYDAY
 <!DOCTYPE html>
 <html>
+<head>
+<script src="/jquery/jquery-1.11.1.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#hide").click(function(){
+  $("p").hide();
+  });
+  $("#show").click(function(){
+  $("p").show();
+  });
+});
+</script>
+</head>
 <script>
   $(document).ready(function() {
     $(".well").addClass("animated shake");
@@ -28,23 +41,11 @@
   <li>一雙又一雙的目光 像監獄和高牆 牆裡的風光是不是 如當初想像？</li>
 </ul>
 </div>
-<head>
-<script src="/jquery/jquery-1.11.1.min.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-  $("#hide").click(function(){
-  $("p").hide();
-  });
-  $("#show").click(function(){
-  $("p").show();
-  });
-});
-</script>
-</head>
+
 <body>
 <p id="p1">如果点击“隐藏”按钮，我就会消失。</p>
-<button id="hide" type="button">隐藏</button>
-<button id="show" type="button">显示</button>
+<button id="hide" type="button">隱藏</button>
+<button id="show" type="button">顯示</button>
 </body>
 <img class="image" src="http://g-search1.alicdn.com/bao/uploaded/i4/134654527/TB2.N1YmVXXXXcqXpXXXXXXXXXX_!!134654527.jpg_240x240q50" > 
 <br>
