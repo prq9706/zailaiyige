@@ -29,6 +29,7 @@
   <li>一雙又一雙的目光 像監獄和高牆 牆裡的風光是不是 如當初想像？</li>
 </ul>
 </div>
+<!DOCTYPE html>
 <html>
 <head>
 <script src="/jquery/jquery-1.11.1.min.js"></script>
