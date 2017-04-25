@@ -6,10 +6,10 @@
 <script type="text/javascript">
 $(document).ready(function(){
   $("#hide").click(function(){
-  $("p2").hide();
+  $("p1").hide();
   });
   $("#show").click(function(){
-  $("p2").show();
+  $("p1").show();
   });
 });
 </script>
