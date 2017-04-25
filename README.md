@@ -19,7 +19,7 @@
 
 <marquee>by 龐睿琪</marquee>
 <img class="image" src="http://img.wmtp.net/wp-content/uploads/14.jpeg" > 
-<p>啦啦啦</p>
+<p>成名在望</p>
 <div class="well" id="swell">
 <ul >
   <li>看過多少臉龐 飛過多少異鄉</li>
